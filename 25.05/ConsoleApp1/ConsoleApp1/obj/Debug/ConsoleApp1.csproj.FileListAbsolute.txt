@@ -1,0 +1,8 @@
+C:\Users\windows\Desktop\Задание\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\windows\Desktop\Задание\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\windows\Desktop\Задание\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\windows\Desktop\Задание\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\windows\Desktop\Задание\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.ResolveComReference.cache
+C:\Users\windows\Desktop\Задание\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\Задание\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\windows\Desktop\Задание\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
